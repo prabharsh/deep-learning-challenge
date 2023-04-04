@@ -1,5 +1,3 @@
-# deep-learning-challenge
-deep-learning-challenge
 # Deep Learning Challenge
 
 ## Background
